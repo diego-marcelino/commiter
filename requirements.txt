@@ -1,0 +1,1 @@
+PyInquirer==1.0.3  # https://github.com/CITGuru/PyInquirer
